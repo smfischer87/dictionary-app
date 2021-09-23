@@ -2,6 +2,22 @@
   display: block;
 }
 
-form {
+.Dictionary section {
+  background-color: white;
+  padding: 30px;
+  border-radius: 16px;
+  box-shadow: 0 5px 15px rgb(0, 0, 0, 0.1);
+  margin: 20px 0;
+}
+
+.Dictionary form {
   text-align: center;
+  width: 100%;
+  padding: 6px 4px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+}
+
+.Dictionary input {
+  width: 100%;
 }
