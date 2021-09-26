@@ -44,7 +44,7 @@ export default function Dictionary() {
             <input type="search" placeholder="Type here..." onChange={handleKeywordChange} />
         </form>
         <div className="hint">
-            suggested words: sunset, candle, flower...
+            suggested words: coffee, candle, flower...
         </div>
         </section>
         <Results results={results} />
