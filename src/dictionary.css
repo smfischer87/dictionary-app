@@ -10,6 +10,12 @@
   margin: 20px 0;
 }
 
+.Dictionary h1 {
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
 .Dictionary form {
   text-align: center;
   width: 100%;
@@ -20,4 +26,9 @@
 
 .Dictionary input {
   width: 100%;
+}
+
+.Dictionary .hint {
+  font-size: 12px;
+  margin-top: 7px;
 }
