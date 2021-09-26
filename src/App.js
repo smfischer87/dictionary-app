@@ -11,7 +11,7 @@ function App() {
       <main>
         <Dictionary />
       </main>
-      <footer className="text-center">Coded by Susan Fischer</footer>
+      <footer className="text-center">Coded by Susan Fischer and <a href="https://github.com/smfischer87/dictionary-app" target="_blank" rel="noreferrer">open-sourced</a> on Github.</footer>
       </div>
     </div>
   );
